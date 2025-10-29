@@ -68,13 +68,6 @@
 
 
 
-токены
-
-    токен - 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
-    https://github.com/belhard53/belhard_test_87_1.git
-
-    git clone https://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@github.com/belhard53/belhard_test_87_1.git
-
 
 
 '''
